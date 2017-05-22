@@ -1,0 +1,4 @@
+In order to view the site locally you will need to run a server. Follow the instructions below:
+1. Go to your root folder of the project in the terminal
+2. Run a local server by typing $python -m SimpleHTTPServer
+3. Go to localhost:8000 to view your project
