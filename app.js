@@ -10,6 +10,11 @@ myWebsite.config(function ($routeProvider) {
 		controller: 'homeController'
 	})
 
+	.when('/resume', {
+		templateUrl: 'pages/resume.html',
+		controller: 'resumeController'
+	})
+
 	.when('/shoeswipe', {
 		templateUrl: 'pages/shoeswipe.html',
 		controller: 'shoeswipeController'
@@ -29,4 +34,7 @@ myWebsite.controller('shoeswipeController', ['$scope', function($scope) {
 	}]);
 
 myWebsite.controller('monkeyworksController', ['$scope', function($scope) {
+	}]);
+
+myWebsite.controller('resumeController', ['$scope', function($scope) {
 	}]);

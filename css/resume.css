@@ -1,0 +1,149 @@
+.outer-container {
+	background-image: url('http://michaelbrant.com/wp-content/uploads/2012/06/photodune-907221-css3-code-m.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.resume-page {
+	color: #fff;
+}
+
+.company {
+	background: grey;
+	padding: 10px 0px 3px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.card {
+	margin-top: 5vh;
+	border-radius: 5px;
+	background: linear-gradient(
+      to top left, 
+      #c3c3c3, white);
+	box-shadow: 3px 4px 15px 6px #000;
+	color: #000;
+	font-size: 16px;
+	opacity: .9;
+    transition: opacity .7s;
+}
+
+.dates p {
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+/*.resume-page {
+	padding: 10vw;
+}*/
+
+/*img {
+	border-radius: 5px;
+}*/
+
+/*.resume-experience .card p {
+	padding: 0px 10px;
+}*/
+
+/*.section-title, .resume-header h1 {
+	text-align: center;
+	text-shadow: 2px 2px 2px #000;
+}*/
+
+/*a:hover {
+	color: #CD00CD;
+}*/
+
+/*section {
+	margin-bottom: 30px;
+}*/
+
+/*.resume-page {
+	color: #fff;
+	background: grey;
+}*/
+
+/*.in-bl {
+	display: inline-block;
+}*/
+
+/*.role {
+	text-align: left;
+	font-weight: bold;
+}*/
+
+/*.dates {
+	text-align: right;
+}*/
+
+/*.company {
+	background: grey;
+	padding: 10px 0px 3px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+}*/
+
+/*.role, .company, .dates {
+	text-decoration: underline;
+}*/
+
+/*.resume {
+	font-family: sans-serif;
+}
+
+.responsibilities {
+	margin: 0 auto;
+}
+
+.card:hover {
+	opacity: 1;
+}*/
+
+/*.section-title {
+	background: linear-gradient(to right,  rgba(0, 0, 0, 0), rgba(0,0,0,.3), rgba(0, 0, 0, 0));
+	text-shadow: 2px 2px 2px 2px #000;
+}*/
+
+/*.card {
+	margin-top: 5vh;
+	border-radius: 5px;
+	background: linear-gradient(
+      to top left, 
+      #c3c3c3, white);
+	padding: 10px;
+	box-shadow: 3px 4px 15px 6px #000;
+	color: #000;
+	font-size: 16px;
+	opacity: .9;
+    transition: opacity .7s;
+}*/
+
+/*@media only screen and (max-width: 767px) {
+	.card {
+		font-size: 12px;
+	}
+
+.resume-experience .card .row div.company p, .resume-experience .card .row div.dates p {
+		padding: 0px;
+	}
+}
+
+@media only screen and (max-width: 530px) {
+	.resume-header h1 {
+		font-size: 28px;
+	}
+	.resume-experience .card p {
+		padding: 0px;
+	}
+}*/
